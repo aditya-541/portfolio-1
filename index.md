@@ -1,47 +1,45 @@
 ---
 layout: home
-title: Home
+title: Cloud Engineer Portfolio
 ---
 
-# Aditya C
+# Aditya
 
-Cloud Engineer | Multi-Cloud Architect | DevOps & Automation Specialist
+Cloud Engineer | DevOps | Multi-Cloud Architect
 
-Cloud Engineer with **3+ years of experience designing, deploying, and optimizing cloud-native infrastructure** across enterprise environments. Specialized in **multi-cloud architectures, infrastructure automation, and highly available systems** using modern DevOps practices.
-
-Experienced in delivering scalable solutions across **AWS, GCP, and Azure**, improving reliability, reducing operational overhead, and enabling faster application delivery through CI/CD pipelines and Infrastructure as Code.
-
-Recognized for innovation through **multiple hackathon wins**, including a **Web3 innovation challenge**, and active participation in emerging technologies such as **Generative AI and decentralized platforms**.
+Experienced Cloud Engineer specializing in scalable cloud infrastructure, automation, and DevOps practices across AWS, GCP, and Azure.
 
 ---
 
-## Core Competencies
+## Core Expertise
 
-- Cloud Infrastructure Architecture
-- Multi-Cloud Strategy (AWS, GCP, Azure)
+- Multi-Cloud Architecture (AWS, GCP, Azure)
 - Infrastructure as Code (Terraform)
-- CI/CD Pipeline Design
 - Kubernetes & Container Orchestration
-- Cloud Security & Governance
-- Service Level Management (SLM)
-- Stakeholder & Client Engagement
-- Team Leadership & Technical Mentorship
+- CI/CD Automation
+- Generative AI & Web3
 
 ---
 
 ## Certifications
 
-- AWS Cloud Certifications
-- Google Cloud Platform (GCP) Certifications
-- Microsoft Azure Certifications
+AWS • Google Cloud • Microsoft Azure
 
 ---
 
-## Key Achievements
+## Achievements
 
-- Delivered **scalable multi-cloud infrastructure solutions** across enterprise workloads.
-- Led cloud migration and modernization initiatives improving system reliability and deployment speed.
-- Winner of several **global technology hackathons**, including a **Web3 Hackathon Champion**.
+🏆 Multiple Hackathon Winner  
+🏆 Web3 Hackathon Champion  
+🚀 Active contributor to Web3 ecosystem
+
+---
+
+## Featured Projects
+
+### GitHub Pages Deployment Workflow
+
+CI/CD pipeline using GitHub Actions to deploy static websites automatically.
 - Active contributor to emerging technologies including **Web3 ecosystems and Generative AI platforms**.
 
 ---

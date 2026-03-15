@@ -5,72 +5,48 @@ title: Cloud Engineer Portfolio
 
 # Aditya
 
-Cloud Engineer | DevOps | Multi-Cloud Architect
+**Cloud Engineer | Multi-Cloud Architect | DevOps & Automation Specialist**
 
-Experienced Cloud Engineer specializing in scalable cloud infrastructure, automation, and DevOps practices across AWS, GCP, and Azure.
+Delivering scalable, automated cloud infrastructure across **AWS, GCP, and Azure**. Winner of multiple hackathons including a **Web3 Hackathon**, and active contributor in **Web3 and Generative AI projects**.
 
 ---
 
 ## Core Expertise
 
-- Multi-Cloud Architecture (AWS, GCP, Azure)
-- Infrastructure as Code (Terraform)
-- Kubernetes & Container Orchestration
-- CI/CD Automation
-- Generative AI & Web3
+- Multi-Cloud Architecture (AWS, GCP, Azure)  
+- DevOps & CI/CD Automation  
+- Infrastructure as Code (Terraform)  
+- Kubernetes & Container Orchestration  
+- Generative AI & Web3 Solutions  
 
 ---
 
 ## Certifications
 
-AWS • Google Cloud • Microsoft Azure
+![AWS](https://img.shields.io/badge/AWS-Certified-orange)  
+![GCP](https://img.shields.io/badge/GCP-Certified-blue)  
+![Azure](https://img.shields.io/badge/Azure-Certified-lightblue)  
 
 ---
 
 ## Achievements
 
-🏆 Multiple Hackathon Winner  
-🏆 Web3 Hackathon Champion  
-🚀 Active contributor to Web3 ecosystem
+- Multiple Hackathon Winner  
+- Web3 Hackathon Champion  
+- Active Contributor to Web3 Ecosystem  
+- Led Multi-Cloud Deployments for Enterprise Workloads  
 
 ---
 
 ## Featured Projects
 
 ### GitHub Pages Deployment Workflow
+CI/CD pipeline for deploying static websites using **GitHub Actions**.  
 
-CI/CD pipeline using GitHub Actions to deploy static websites automatically.
-- Active contributor to emerging technologies including **Web3 ecosystems and Generative AI platforms**.
+[View Repository](https://github.com/aditya-541/gh-deployment-workflow)
 
----
+### Cloud Infrastructure Automation
+Multi-cloud automation using Terraform, AWS, GCP, and Azure.  
 
-## Featured Project
-
-### GitHub Pages Deployment Workflow
-
-Designed and implemented a **CI/CD workflow using GitHub Actions** to automate the deployment of static websites to GitHub Pages.
-
-Key Highlights:
-
-- Automated deployment pipeline
-- Event-driven workflow triggered on code changes
-- Continuous delivery to cloud-hosted infrastructure
-
-Repository:
-https://github.com/<your-username>/gh-deployment-workflow
-
----
-
-## Technology Stack
-
-**Cloud Platforms**
-AWS • Google Cloud • Microsoft Azure
-
-**DevOps & Automation**
-Terraform • Docker • Kubernetes • GitHub Actions
-
-**Programming & Scripting**
-Python • Bash • JavaScript
-
-**Emerging Technologies**
-Generative AI • Web3 Infrastructure • Blockchain Systems
+### Web3 Hackathon Project
+Decentralized application built on Ethereum and IPFS.  

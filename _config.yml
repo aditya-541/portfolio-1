@@ -1,3 +1,6 @@
 title: Aditya | Cloud Engineer
 description: Multi-Cloud | DevOps | GenAI | Web3
 theme: jekyll-theme-cayman
+header_pages:
+  - about.md
+  - projects.md

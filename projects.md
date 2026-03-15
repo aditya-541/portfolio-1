@@ -4,10 +4,13 @@ title: Projects
 permalink: /projects/
 ---
 
-## My Projects
+## Key Projects
 
-### GitHub Deployment Workflow
-A GitHub Actions workflow that deploys a website automatically.
+### GitHub Pages Deployment Workflow
+CI/CD pipeline using GitHub Actions for deploying static websites.
 
-Repository:
-https://github.com/<your-username>/gh-deployment-workflow
+### Cloud Infrastructure Automation
+Automated enterprise cloud infrastructure using Terraform across AWS, GCP, and Azure.
+
+### Web3 Hackathon Project
+Decentralized application leveraging Ethereum smart contracts and IPFS.
